@@ -12,3 +12,8 @@ function shareLink(link) {
       .catch(() => alert('Failed to copy link'));
   }
 }
+window.addEventListener("load" , function(){
+  const video = 
+  document.getElementById("bgvideo");
+  video.load();
+});

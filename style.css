@@ -9,8 +9,9 @@
   background-clip: content-box, border-box;
   box-shadow: -5px 0 10px #00ffff, 5px 0 12px #8a2be2, 0 0 24px rgba(0, 255, 255, 0.3), 0 0 32px rgba(138, 43, 226, 0.3);
   object-fit: cover;
-  margin: 10px auto;
+  margin: 20px auto;
   display: block;
+  
 }
 h1 {
   font-size: 24px;
